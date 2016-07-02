@@ -16,8 +16,7 @@ public class FirstTestScript {
 		driver.get("http://www.cnn.com");
 		String s= driver.getTitle();
 		System.out.println(s);
-		//driver.get("http://www.google.com");
-		
+			
 
 	}
 
